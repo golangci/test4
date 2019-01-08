@@ -1,0 +1,4 @@
+github.com/golangci/test1 v0.0.0-20190108121736-951c1086bd82 h1:+I598FOhvUZqRKggwADRqe6iBTjaaVF8fz+K+at/nYU=
+github.com/golangci/test1 v0.0.0-20190108121736-951c1086bd82/go.mod h1:fEAPiA4aH9y3LKSekcfjMZoiQNxWQWSE5hse4VE6DCo=
+github.com/golangci/test2 v0.0.0-20190108121323-b241e05eddb2 h1:lVSOp0g2JWFUqPk5vvPd4Ab+rRYErZWSTTkWtGKGkrM=
+github.com/golangci/test2 v0.0.0-20190108121323-b241e05eddb2/go.mod h1:WOVYfCieS8ChmVj+JZ9lKBbDzvPkNSGBgbP0cC3H1CQ=
